@@ -9,6 +9,5 @@ simulating ping from different devices, how the ARP table on the host and the MA
 ## HW3
 calculate 'success_rate, idle_rate, collision_rate' when using different Medium Access Control protocol
 
-Observing various MAC protocol parameters such as 'success_rate, idle_rate, collision_rate,' how do they change with factors such as increasing packet count, packet length, number of devices, etc.
-
+Observing the 'success_rate, idle_rate, collision_rate' of various MAC protocols, what changes can be expected as factors such as the number of packets per unit increases, the packet length increases, the number of devices increases, etc.
 
