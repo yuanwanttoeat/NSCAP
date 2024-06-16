@@ -1,5 +1,10 @@
 # NSCAP
 
+## HW1
+reads packets from a pcap file and send to the loopback interface
+
+After parsing and modifying the packets' MAC address and ip address, resend the modified packet
+
 ## HW2
 simulating ping from different devices, how the ARP table on the host and the MAC table on the switch change
 
